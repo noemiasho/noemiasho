@@ -12,7 +12,7 @@
 ### Something else about me:
 - 👩‍🎓 I'm electrical and biomedical engineer!
 - 💬 Ask me anything that you want, I'll be happy to help you!
-- 📫 How to reach me: noemicampo.asho@gmail.com  & <a href="https://www.linkedin.com/in/noemicampo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+- 📫 How to reach me: noemicampo.asho@gmail.com 
 - ⚡ Fun fact: I love graphic design!
 
 </br>
